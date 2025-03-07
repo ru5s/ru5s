@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ru5s
-- 👀 I’m interested in web design
-- 🌱 I’m currently learning html and css
+- 👀 I’m interested in ios development
+- 🌱 I’m currently learning Swift 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
